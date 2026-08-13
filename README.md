@@ -4,7 +4,7 @@
 
 *NEFSC Mid-Atlantic Marine Mammal Visual Survey × NASA PACE Satellite Data*
 
-2026 PACE Hackathon — Liz Ferguson, Ana Vaz, James King, Sarah Roberts, Katherine Gallagher
+Contributors — Liz Ferguson, Ana Vaz, James King, Sarah Roberts, Katherine Gallagher
 
 ## Overview
 
